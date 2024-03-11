@@ -95,9 +95,9 @@ const BaseHtml = ({ children }: JSX.ElementChildrenAttribute) => {
         <script type='module' src='public/htmx.min.js'></script>
         <script type='module' src='public/_hyperscript.min.js'></script>
         <link rel='stylesheet' type='text/css' href='public/main.css' />
-        <title>Elysia Beth Stack</title>
+        <title>HTMX Demo</title>
       </head>
-      ${children}
+      {children}
     </html>
   )
 }

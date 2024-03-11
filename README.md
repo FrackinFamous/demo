@@ -1,9 +1,9 @@
-# Elysia with Bun runtime
+# Elysia with Bun runtime HTMX, Tailwind and Turso Database
 
 ## Getting Started
 To get started with this template, simply paste this command into your terminal:
 ```bash
-bun create elysia ./elysia-example
+bun create frackinfamous/htmx-demo #immeadiately follow with the name of your project if you want to name it something other than htmx-demo
 ```
 
 ## Development

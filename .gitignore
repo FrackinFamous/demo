@@ -41,6 +41,7 @@ yarn-error.log*
 package-lock.json
 **/*.bun
 .env*
+.env.vault
 .flaskenv*
 !.env.project
-!.env.vault
+!.env.example
